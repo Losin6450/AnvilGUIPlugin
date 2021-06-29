@@ -12,4 +12,4 @@ server.broadcastMessage(`${
         player.sendMessage(text);
     })
     .open(player)}`);
-´´´
+```
