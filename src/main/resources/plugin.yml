@@ -1,0 +1,5 @@
+name: AnvilGUI
+version: ${project.version}
+main: me.losin6450.anvilgui.AnvilGUI
+authors: [ Losin6450 ]
+description: AnvilGUI as a Plugin
